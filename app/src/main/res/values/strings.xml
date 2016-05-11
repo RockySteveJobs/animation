@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="anticipation">Anticipation</string>
+    <string name="staging">Staging</string>
+    <string name="follow_and_overlap"><![CDATA[Follow Through & Overlapping Action]]></string>
+    <string name="slow_in_and_slow_out"><![CDATA[Slow in & Slow out]]></string>
+    <string name="arc">Arc</string>
+    <string name="squash_and_stretch"><![CDATA[Squash & Stretch]]></string>
+    <string name="straight_and_pose"><![CDATA[Straight-Ahead Action & Pose-to-Pose]]></string>
+    <string name="secondary_action">Secondary Action</string>
+    <string name="timing">Timing</string>
+    <string name="exaggeration">Exaggeration</string>
+    <string name="appeal">Appeal</string>
+    <string name="solid_drawing">Solid Drawing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>
