@@ -53,16 +53,9 @@ public class AnticipationFragment extends BaseAnimationFragment {
 
         AnimatorSet set = new AnimatorSet();
         set.setDuration(1000);
-//        set.setInterpolator(getInterpolator(0.895, 0.030, 0.685, 0.220));
         set.playSequentially(translationX, rotation, dismissSet);
         set.setInterpolator(EaseUtil.easeInOut);
         set.start();
-//        this.shape.animate()
-//                .translationY(this.shape.getHeight())
-//                .alpha(0)
-//                .setStartDelay(800)
-//                .setDuration(600)
-//                .start();
     }
 
     @Override

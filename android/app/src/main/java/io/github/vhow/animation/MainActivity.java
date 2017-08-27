@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void show(Principle principle) {
-
-
         switch (principle) {
             case SQUASH_AND_STRETCH:
                 fragment = SquashAndStretchFragment.newInstance(principle);
