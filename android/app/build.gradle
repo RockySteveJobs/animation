@@ -10,7 +10,7 @@ android {
         targetSdkVersion 27
         versionCode 1
         versionName "0.9"
-        setProperty("archivesBaseName", "animation-principles-$versionName")
+        setProperty("archivesBaseName", "animation-principles-v$versionName")
     }
     buildTypes {
         release {

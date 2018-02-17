@@ -1,10 +1,12 @@
 # Disney's Twelve Basic Principles of Animation on Android
 
 This project demonstrates [12 basic principles of animation](https://en.wikipedia.org/wiki/12_basic_principles_of_animation)  on Android platform. 
-Inspired by https://cssanimation.rocks/principles/
 
-All animations in this project are written & implemented with [Android Property Animation](https://developer.android.com/guide/topics/graphics/prop-animation.html)
+ - Inspired by https://cssanimation.rocks/principles/
+ - All animations in this project are written & implemented with [Android Property Animation](https://developer.android.com/guide/topics/graphics/prop-animation.html)
  APIs.
+
+Download the APK file [animation-principles-v0.9-release.apk](https://raw.githubusercontent.com/vhow/animation/master/android/app/release/animation-principles-0.9-release.apk)
 
 ## Squash and stretch
 
