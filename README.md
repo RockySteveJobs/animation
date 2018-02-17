@@ -41,3 +41,7 @@ Download the APK file [animation-principles-v0.9-release.apk](https://raw.github
 ## Timing
 
 <img src="./screenshots/Timing.gif" title="Timing" width="400">
+
+## Exaggeration
+
+<img src="./screenshots/Exaggeration.gif" title="	Exaggeration" width="400">
