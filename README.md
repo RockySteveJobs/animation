@@ -8,13 +8,21 @@ This project demonstrates [12 basic principles of animation](https://en.wikipedi
 
 Download the APK file [animation-principles-v0.9-release.apk](https://raw.githubusercontent.com/vhow/animation/master/android/app/release/animation-principles-0.9-release.apk)
 
-## Squash and stretch
+## Exaggeration
 
-<img src="./screenshots/Squash_and_Stretch.gif" title="Squash and stretch" width="400">
+<img src="./screenshots/Exaggeration.gif" title="	Exaggeration" width="400">
+
+## Follow Through and Overlapping Action
+
+<img src="./screenshots/Follow_Through.gif" title="Follow Through and Overlapping Action" width="400">
 
 ## Anticipation
 
 <img src="./screenshots/Anticipation.gif" title="Anticipation" width="400">
+
+## Squash and stretch
+
+<img src="./screenshots/Squash_and_Stretch.gif" title="Squash and stretch" width="400">
 
 ## Staging
 
@@ -23,10 +31,6 @@ Download the APK file [animation-principles-v0.9-release.apk](https://raw.github
 ## Straight Ahead Action and Pose to Pose
 
 <img src="./screenshots/Straight_Ahead.gif" title="Straight Ahead Action and Pose to Pose" width="400">
-
-## Follow Through and Overlapping Action
-
-<img src="./screenshots/Follow_Through.gif" title="Follow Through and Overlapping Action" width="400">
 
 ## Ease In and Ease Out
 
@@ -41,7 +45,3 @@ Download the APK file [animation-principles-v0.9-release.apk](https://raw.github
 ## Timing
 
 <img src="./screenshots/Timing.gif" title="Timing" width="400">
-
-## Exaggeration
-
-<img src="./screenshots/Exaggeration.gif" title="	Exaggeration" width="400">
